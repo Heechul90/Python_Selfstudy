@@ -12,3 +12,9 @@ for std in students:
 
 import random
 print(random.choice(students))
+
+
+# 추가 하기
+print(students.append('최인실'))
+
+
