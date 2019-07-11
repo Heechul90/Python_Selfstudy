@@ -15,3 +15,10 @@ my_str = """이희철
 이희영
 """
 print(my_str)
+
+
+## 문자열 연산
+print('일로일로' + 'X' + '갈로갈로')
+print('Hello' + 'X' + 'World')
+print('Hello' + ' ' + 'World')
+print('Hello' * 10)
