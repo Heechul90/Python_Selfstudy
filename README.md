@@ -1,4 +1,4 @@
-## Jump_To_Python
+## 1. Jump_To_Python
 
 ### 교재 : 점프 투 파이썬
 #### 저자 : 박응용
@@ -7,7 +7,10 @@
 ![](https://wikidocs.net/images/book/j2p_title_new2_S1JyeeE.jpg)
 
 
-## Left_Hand_Coding
+
+
+
+## 2. Left_Hand_Coding
 
 ### youtube 채널 : 김왼손의 왼손코딩
 
