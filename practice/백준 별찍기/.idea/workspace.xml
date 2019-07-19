@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23d11c36-67f3-45a6-aa36-4baf1f9d9005" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/star13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/star15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/star16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/star17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../star01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="23d11c36-67f3-45a6-aa36-4baf1f9d9005" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +98,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Python_lecture/Python_coding_dojang/Unit 19" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Python_lecture/Python_coding_dojang" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -252,7 +245,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1133" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20989917" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20913242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -265,7 +258,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32871974" />
+      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32858709" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
