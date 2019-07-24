@@ -15,3 +15,9 @@
 
 ## cmd 창에 메모 불러오기
 # python memo.py -v
+
+
+
+## review
+import sys
+

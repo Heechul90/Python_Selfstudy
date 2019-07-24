@@ -14,3 +14,12 @@ print(result)
 
 ## [코딩 연습을 할 수 있는 사이트]
 # 프로젝트 오일러(http://projecteuler.net/archives)
+
+
+
+## review
+result = 0
+for i in range(1, 1000):
+    if i % 3 == 0 or i % 5 == 0:
+        result = result + i
+print(result)
