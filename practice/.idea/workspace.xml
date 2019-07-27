@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b709b783-5f97-4527-8056-2d79c576f41d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/백준 별찍기/star01.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 별찍기/2438.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준 별찍기/star02.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 별찍기/2439.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준 별찍기/star03.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 별찍기/2440.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준 별찍기/star04.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 별찍기/2441.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준 별찍기/star05.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 별찍기/2442.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준 별찍기/star06.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 별찍기/2443.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준 별찍기/star07.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 별찍기/2444.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준 별찍기/star08.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 별찍기/2445.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준 별찍기/star09.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 별찍기/2446.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준 별찍기/star10.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 별찍기/2447.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준 별찍기/star12.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 별찍기/2522.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준 별찍기/star13.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 별찍기/2523.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준 별찍기/star15.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 별찍기/10990.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준 별찍기/star16.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 별찍기/10991.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준 별찍기/star17.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준 별찍기/10992.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/카카오 코딩 테스트/체육복.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +12,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/카카오 코딩 테스트/체육복.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/카카오 코딩 테스트/완주하지 못한 선수.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,22 +48,13 @@
       <list>
         <option value="$PROJECT_DIR$/카카오 코딩 테스트/da.py" />
         <option value="$PROJECT_DIR$/카카오 코딩 테스트/모의고사.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/practice.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/카카오 코딩 테스트/체육복.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="999" />
+    <option name="width" value="1126" />
     <option name="height" value="1041" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -68,34 +65,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="백준 별찍기" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="카카오 코딩 테스트" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../left_hand_coding" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -124,9 +101,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="999" height="1041" extended-state="0" />
+    <frame x="-7" y="0" width="1126" height="1041" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28481674" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2513863" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -139,7 +116,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32616082" />
+      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32616082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -178,6 +155,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/카카오 코딩 테스트/체육복.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/카카오 코딩 테스트/완주하지 못한 선수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="14" />
         </state>
       </provider>
     </entry>
