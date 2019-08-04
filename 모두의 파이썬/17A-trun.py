@@ -13,6 +13,9 @@ ts = t.Turtle()     # 먹이(초록색 동그라미)
 ts.shape("circle")
 ts.color("green")
 ts.speed(0)
+
+
+
 ts.up()
 ts.goto(0, -200)
 
