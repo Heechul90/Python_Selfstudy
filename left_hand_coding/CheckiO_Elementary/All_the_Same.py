@@ -7,7 +7,8 @@ def all_the_same(elements: List[Any]):
 
 list = [1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3]
 a = set(list)
+a
 
 
-All_the_Same
 all_the_same([1, 'a', 1])
+all_the_same(list)
