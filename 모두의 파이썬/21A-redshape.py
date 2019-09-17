@@ -12,5 +12,3 @@ for x in range(100):    # 100개의 점으로 나누어 그립니다.
 t.end_fill()
 
 t.mainloop()
-
-
