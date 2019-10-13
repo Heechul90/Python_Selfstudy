@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aa926e3-96a2-408b-9935-88c60cea2496" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/체육복.py" beforeDir="false" afterPath="$PROJECT_DIR$/체육복.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Deep_Learning/새 텍스트 문서.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Deep_Learning/새 텍스트 문서.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/모의고사.py" beforeDir="false" afterPath="$PROJECT_DIR$/모의고사.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,17 +25,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/완주하지 못한 선수.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
+            <state relative-caret-position="1250">
               <caret line="50" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/체육복.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
+            <state relative-caret-position="379">
               <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/모의고사.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
             </state>
           </provider>
         </entry>
@@ -58,6 +68,7 @@
         <option value="$PROJECT_DIR$/링크.txt" />
         <option value="$PROJECT_DIR$/완주하지 못한 선수.py" />
         <option value="$PROJECT_DIR$/체육복.py" />
+        <option value="$PROJECT_DIR$/모의고사.py" />
       </list>
     </option>
   </component>
@@ -162,15 +173,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/완주하지 못한 선수.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
+        <state relative-caret-position="1250">
           <caret line="50" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/체육복.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
+        <state relative-caret-position="379">
           <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모의고사.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
         </state>
       </provider>
     </entry>
